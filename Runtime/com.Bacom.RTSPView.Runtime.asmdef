@@ -1,0 +1,15 @@
+{
+    "name": "com.Bacom.RTSPView.Runtime",
+    "references": [
+        "GUID:81406555d2574554eb020a6ef52ec258",
+        "GUID:fff5ef26464db7a4b902085d6291a9e5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

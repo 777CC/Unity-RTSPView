@@ -1,0 +1,13 @@
+{
+  "name": "com.Bacom.RTSPView",
+  "displayName": "Bacom RTSP",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Bacom",
+  "keywords": [
+    "unity",
+    "stats",
+    "tracker"
+  ],
+  "category": "Productivity"
+}
