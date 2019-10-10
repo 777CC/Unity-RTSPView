@@ -8,9 +8,9 @@ public class RTSPView : View
     [SerializeField]
     private UniversalMediaPlayer player;
     const string rtspScheme = "rtsp://";
-    public override void Play(string path)
+    public override void Setup(string path)
     {
-        base.Play(path);
+        base.Setup(path);
         player.Path = rtspScheme + path;
         player.Play();
         Debug.Log("Startttt : " + path);
