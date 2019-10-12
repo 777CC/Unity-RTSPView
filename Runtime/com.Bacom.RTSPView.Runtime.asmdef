@@ -1,8 +1,9 @@
 {
     "name": "com.Bacom.RTSPView.Runtime",
     "references": [
-        "com.amaze.gridautolayout.Runtime",
-        "UniversalMediaPlayer"
+        "GUID:81406555d2574554eb020a6ef52ec258",
+        "GUID:fff5ef26464db7a4b902085d6291a9e5",
+        "GUID:7d49720cf8557574dac6f672e862995e"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

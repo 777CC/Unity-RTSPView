@@ -10,7 +10,6 @@ public class RTSPView : View
     const string rtspScheme = "rtsp://";
     public override void Setup(string path)
     {
-        base.Setup(path);
         player.Path = rtspScheme + path;
         player.Play();
         Debug.Log("Startttt : " + path);
